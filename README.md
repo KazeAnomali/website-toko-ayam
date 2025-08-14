@@ -1,7 +1,4 @@
-# website-toko-ayam
-web
-[index.html](https://github.com/user-attachments/files/21774448/index.html)
-<!DOCTYPE html>
+# website-peternakan-ayam
 <html lang="id">
 <head>
   <meta charset="UTF-8">
